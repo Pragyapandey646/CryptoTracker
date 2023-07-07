@@ -2,8 +2,6 @@
 
 Welcome to Cryptocurrency Tracker! This website allows you to easily track the latest information and trends of various cryptocurrencies. Stay up-to-date with real-time prices, market capitalizations, trading volumes, and more.
 
-## Demo
-[![Artistico](https://img.youtube.com/vi/2_del9FdLb8/0.jpg)](https://www.youtube.com/watch?v=2_del9FdLb8)
 
 ## Features
 
