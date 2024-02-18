@@ -16,13 +16,13 @@ To get started with Cryptocurrency Tracker, follow these steps:
 1. Clone the repository:
 
    ```
-   https://github.com/AgamK18/CrypTracker.git
+   https://github.com/Pragyapandey646/CryptoTracker.git
    ```
 
 2. Install the required dependencies:
 
    ```
-   cd cryptocurrency-tracker
+   
    npm install
    ```
 3. Start the development server:
