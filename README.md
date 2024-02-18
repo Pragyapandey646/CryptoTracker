@@ -22,7 +22,6 @@ To get started with Cryptocurrency Tracker, follow these steps:
 2. Install the required dependencies:
 
    ```
-   
    npm install
    ```
 3. Start the development server:
